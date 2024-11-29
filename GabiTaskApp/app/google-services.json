@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "869916078976",
+    "project_id": "vekf1app",
+    "storage_bucket": "vekf1app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869916078976:android:4d4c8795c8baa22f888765",
+        "android_client_info": {
+          "package_name": "com.example.gabitaskapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6YeElVIOvUZuNLAzjukQbPe2INx0G0hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869916078976:android:fe93d1c498bae658888765",
+        "android_client_info": {
+          "package_name": "com.example.vekf1app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6YeElVIOvUZuNLAzjukQbPe2INx0G0hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
